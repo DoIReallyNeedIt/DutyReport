@@ -1,0 +1,15 @@
+[img]https://i.imgur.com/HxfGb0a.png[/img]
+[divbox=white]
+[b]Date:[/b] 
+[b]Hours on Duty:[/b] 0:33
+[b]Start of Service:[/b] 9:36
+[b]End of Service:[/b] 9:69
+[b]Field Treated:[/b] 2
+[b]Hospitalized:[/b] 2
+[b]Notes:[/b]
+Test
+
+[b]Signature:[/b] 
+[i]m[/i]
+[/divbox]
+[img]https://i.imgur.com/dTpKivz.png[/img]
